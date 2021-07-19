@@ -1,0 +1,20 @@
+i <- 1
+Repeat (100) {
+count <- 0.0
+c <- 1.0
+if (i%2 == 1) {
+Repeat (100) {
+if (i%c == 0) {
+count <- count + 1.0
+}
+c <- c + 1.0
+}
+
+if (count == 2.0) {
+Display(i)
+}
+
+}
+
+i <- i +1
+}

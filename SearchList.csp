@@ -1,0 +1,9 @@
+str <- [1, 2, 3, 4, 5]
+
+i <- 0
+Repeat (str.length) {
+if (str[i] == 3) {
+Display("Found at position: " + i)
+}
+i <- i + 1
+}
