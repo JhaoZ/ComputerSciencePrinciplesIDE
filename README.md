@@ -1,7 +1,7 @@
 # ComputerSciencePrinciplesIDE
 This is a custom made IDE for the AP Computer Science Principles syntax (which is mostly psuedocode). It is currently in development, but many features (and bugs!) are already implemented. It is programmed in Java.
-
-The "help" button might not work due to hardcoded paths.
+ 
+The "help" button might not work due to hardcoded paths. (I'll fix that someday...)
 
 In this repository, there are two examples of the AP CSP code (these are SearchList.csp and FindThePrimes.csp)
 
